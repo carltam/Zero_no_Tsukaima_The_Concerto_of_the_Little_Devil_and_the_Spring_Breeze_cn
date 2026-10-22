@@ -4,7 +4,8 @@
 产出可直接在模拟器 / 实机运行的汉化 ISO。本项目为**最终版方案**的自包含重建工程：  
 剧情文本、系统文本、战斗文本、界面图片素材、原版基底文件、完整工具链全部在内，  
 一条命令即可从零重新产出汉化 ROM。
-感谢贴吧大佬黑茶zzz提供汉化后的人名，人物信息图，菜单汉化图<img width="415" height="101" alt="66e88b67-9a7a-447b-9bbc-f73a7e1673cb" src="https://github.com/user-attachments/assets/d0046614-b3f9-414b-8ac3-0a8103a2f5be" />
+感谢贴吧大佬黑茶zzz提供汉化后的人名，人物信息图，菜单汉化图，字库工具以及后续优化建议
+<img width="415" height="101" alt="66e88b67-9a7a-447b-9bbc-f73a7e1673cb" src="https://github.com/user-attachments/assets/d0046614-b3f9-414b-8ac3-0a8103a2f5be" />
 
 
 ## 快速开始（一键打包）
