@@ -17,7 +17,7 @@
 | Windows + PowerShell 5.1+ | 系统自带                                    |
 | Python 3.x（含 Pillow）      | `python -m pip install Pillow`          |
 | 微软雅黑字体                    | `C:\Windows\Fonts\msyh.ttc`（Windows 自带） |
-| 原版日文 ISO                  | 已随项目放在 `rom\01.iso`（1.5 GB）             |
+| 原版日文 ISO                  | 放在 `rom\01.iso`（1.5 GB）需自备             |
 
 **打包**：双击 `一键打包.bat`，等待约 20–30 分钟。
 
